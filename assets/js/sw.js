@@ -16,11 +16,7 @@
 // ⚡️ DANGER ZONE ⚡️
 // ================
 // 
-self.addEventListener("activate", e => e.waitUntil(onDeactivate(e)));
 
-<<<<<<< HEAD
-async function onDeactivate() {
-=======
 // The shell cache keeps "landmark" resources, like CSS and JS, web fonts, etc.
 // which won't change between content updates.
 // 
@@ -33,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.4--v7--sw/AlphaBetEcon/";
 const ASSETS_CACHE = "assets--v7--sw/AlphaBetEcon/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2020-09-11T19:09:34+01:00--sw/AlphaBetEcon/";
+const CONTENT_CACHE = "content--2020-09-11T21:25:29+01:00--sw/AlphaBetEcon/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -371,7 +367,7 @@ const STATIC_FILES = [
 const PRE_CACHED_ASSETS = [
   '/AlphaBetEcon/assets/icons/favicon.ico',
   /**/"/AlphaBetEcon/assets/img/sidebar-bg.jpg",/**/
-  /**/"/AlphaBetEcon/assets/img/logo.png",/**/
+  /**/
   /**/"/AlphaBetEcon/assets/img/swipe.svg",
   /**/
 ];
@@ -542,7 +538,6 @@ async function cacheResponse(cacheName, req, res) {
 }
 
 async function onActivate() {
->>>>>>> d02701293d37f19df1d2f0d6de4d3e0999caa936
   await self.clients.claim();
 
   const keys = await caches.keys();
@@ -550,10 +545,75 @@ async function onActivate() {
   return Promise.all(
     keys
       // Only consider caches created by this baseurl, i.e. allow multiple Hydejack installations on same domain.
-      .filter(key => key.endsWith(""))
-      // Delete *all* caches
+      .filter(key => key.endsWith("sw/AlphaBetEcon/"))
+      // Delete old caches
+      .filter(key => key !== SHELL_CACHE && key !== ASSETS_CACHE && key !== CONTENT_CACHE)
       .map(key => caches.delete(key))
   );
 }
+
+const NEVER = new Promise(() => {});
+
+// Returns the first promise that resolves with non-nullish value,
+// or `undefined` if all promises resolve with a nullish value.
+// Note that this inherits the behavior of `Promise.race`,
+// where the returned promise rejects as soon as one input promise rejects.
+async function raceTruthy(iterable) {
+  const ps = [...iterable].map(_ => Promise.resolve(_));
+  let { length } = ps;
+  const continueWhenNullish = value => value != null
+    ? value
+    : --length > 0
+      ? NEVER
+      : undefined;
+  return Promise.race(ps.map(p => p.then(continueWhenNullish)));
+}
+
+async function fromNetwork(url, ...args) {
+  const cacheName = isAsset(url) || hasSWParam(url) ? ASSETS_CACHE : CONTENT_CACHE;
+  return fetchAndCache(cacheName, url, ...args);
+}
+
+async function fetchAndCache(cacheName, url, request, e) {
+  const response = await fetch(noCache(noSWParam(url)));
+  if (response.ok) e.waitUntil(cacheResponse(cacheName, request, response.clone()));
+  return response;
+}
+
+async function onFetch(e) {
+  const { request } = e;
+  const url = new URL(request.url);
+
+  // Bypass
+  // ------
+  // Go to network for non-GET request and Google Analytics right away.
+  const shouldCache = isSameSite(url) || hasSWParam(url) || isGoogleFonts(url);
+  if (request.method !== "GET" || !shouldCache || hasNoCacheParam(url)) {
+    return fetch(request).catch(e => Promise.reject(e));
+  }
+
+  try {
+    // Caches
+    // ------
+    const matching = await raceTruthy([
+      caches.open(SHELL_CACHE).then(c => c.match(url.href, { ignoreSearch: true })),
+      caches.open(ASSETS_CACHE).then(c => c.match(url.href, { ignoreSearch: true })),
+      caches.open(CONTENT_CACHE).then(c => c.match(url.href, { ignoreSearch: true })),
+    ]);
+
+    if (matching) return matching;
+
+    // Network
+    // -------
+    // Got to network otherwise. Show 404 when there's a network error.
+    // TODO: Use separate offline site instead of 404!?
+    return await fromNetwork(url, request, e);
+  } catch (err) {
+    // console.error(err)
+    const cache = await caches.open(CONTENT_CACHE);
+    return cache.match(OFFLINE_PAGE_URL);
+  }
+}
+
 // 
 

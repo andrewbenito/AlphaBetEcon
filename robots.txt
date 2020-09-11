@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/AlphaBetEcon/sitemap.xml
+Sitemap: https://andrewbenito.github.io/AlphaBetEcon/sitemap.xml
