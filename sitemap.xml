@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/AlphaBetEcon/blog/2020-06-10-EA-Pygmalion/</loc>
+=======
+<loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2020-06-10-EA-Pygmalion/</loc>
+>>>>>>> d02701293d37f19df1d2f0d6de4d3e0999caa936
 <lastmod>2020-09-08T09:37:09+01:00</lastmod>
 </url>
 <url>
@@ -45,6 +49,7 @@
 <lastmod>2020-08-25T23:58:44+01:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/AlphaBetEcon/teaching/</loc>
 <lastmod>2020-09-11T20:22:03+01:00</lastmod>
 </url>
@@ -90,6 +95,53 @@
 </url>
 <url>
 <loc>http://localhost:4000/AlphaBetEcon/assets/pygmalion.pdf</loc>
+=======
+<loc>https://andrewbenito.github.io/AlphaBetEcon/teaching/</loc>
+<lastmod>2020-09-11T14:24:01+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/Apache-2.0/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/GPL-3.0/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/MIT/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/PRO/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/W3C-20150513/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/licenses/</loc>
+<lastmod>2020-08-25T23:58:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/BoEDoesIT.pdf</loc>
+<lastmod>2020-08-19T12:10:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/Working_in_Finance.pdf</loc>
+<lastmod>2020-08-18T15:13:39+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/cv_ab_sept19.pdf</loc>
+<lastmod>2020-08-18T15:13:39+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/jobsMarketCovid.pdf</loc>
+<lastmod>2020-08-18T15:13:39+01:00</lastmod>
+</url>
+<url>
+<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/pygmalion.pdf</loc>
+>>>>>>> d02701293d37f19df1d2f0d6de4d3e0999caa936
 <lastmod>2020-08-18T15:13:39+01:00</lastmod>
 </url>
 </urlset>
