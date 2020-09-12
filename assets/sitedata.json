@@ -96,18 +96,18 @@
   ], 
   "documents": [
     {
-      
+      "image": {"path":"/assets/img/blog/euro2.jpg","srcset":{"1920w":"/assets/img/blog/euro2.jpg","960w":"/assets/img/blog/euro2.jpg","480w":"/assets/img/blog/euro2.jpg"}},
       "title": "The €A and Pygmalion",
       "date": "2020-06-10 00:00:00 +0100",
       
-      "content": "Some general reflections on €A institutional reform\n\n",
+      "content": "A note on €A governance and economics\n\n",
       "categories": [],
       "tags": [],
       
       "collection": "posts",
       "url": "/blog/2020-06-10-EA-Pygmalion/"
     },{
-      
+      "image": {"path":"/assets/img/blog/example-content-iii.jpg","srcset":{"1920w":"/assets/img/blog/example-content-iii.jpg","960w":"/assets/img/blog/example-content-iii@0,5x.jpg","480w":"/assets/img/blog/example-content-iii@0,25x.jpg"}},
       "title": "An Economist's View: Working in Finance",
       "date": "2020-06-23 00:00:00 +0100",
       
@@ -118,7 +118,7 @@
       "collection": "posts",
       "url": "/blog/2020-06-23-Working-in-Finance/"
     },{
-      
+      "image": {"path":"/assets/img/blog/covid19symptoms.jpg","srcset":{"1920w":"/assets/img/blog/covid19symptoms.jpg","960w":"/assets/img/blog/covid19symptoms.jpg","480w":"/assets/img/blog/covid19symptoms.jpg"}},
       "title": "The impact of Covid-19 on the UK jobs market",
       "date": "2020-07-23 00:00:00 +0100",
       
@@ -129,7 +129,7 @@
       "collection": "posts",
       "url": "/blog/2020-07-23-Covid19-and-the-jobs-market/"
     },{
-      
+      "image": {"path":"/assets/img/blog/boe.jpg","srcset":{"1920w":"/assets/img/blog/boe.jpg","960w":"/assets/img/blog/boe.jpg","480w":"/assets/img/blog/boe.jpg"}},
       "title": "Monetary policy and Covid-19",
       "date": "2020-08-11 00:00:00 +0100",
       
@@ -142,7 +142,7 @@
     },{
       
       "title": "Example",
-      "date": "2020-09-11 21:25:29 +0100",
+      "date": "2020-09-12 06:06:19 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
