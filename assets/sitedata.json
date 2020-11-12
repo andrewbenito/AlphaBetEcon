@@ -54,7 +54,7 @@
       
       "title": "Teaching",
       
-      "content": "How to teach\n\nTalks\n\n\n  \n    A talk on Brexit, given to Harvard Business School MBA Class (Nov.2020).)\n  \n  \n    A talk on working as an Economist in Finance, given to Warwick University Finance Society  (Oct. 2019).\n  \n\n\n",
+      "content": "How to teach\n\nTalks\n\n\n  \n    A talk on Brexit, given to Harvard Business School MBA Class (Nov.2020).\n  \n  \n    A talk on working as an Economist in Finance, given to Warwick University Finance Society  (Oct. 2019).\n  \n\n\n",
       "url": "/teaching/"
     },{
       
@@ -140,9 +140,20 @@
       "collection": "posts",
       "url": "/blog/2020-08-11-Monetary-policy-and-Covid-19/"
     },{
+      "image": {"path":"/assets/img/blog/brexit.jpeg","srcset":{"1920w":"/assets/img/blog/brexit.jpeg","960w":"/assets/img/blog/brexit.jpeg","480w":"/assets/img/blog/brexit.jpeg"}},
+      "title": "A talk on Brexit",
+      "date": "2020-11-12 00:00:00 +0000",
+      
+      "content": "A talk on Brexit given to the Harvard MBA class.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2020-11-12-Brexit/"
+    },{
       
       "title": "Example",
-      "date": "2020-11-12 11:09:55 +0000",
+      "date": "2020-11-12 11:15:43 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
