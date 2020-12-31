@@ -118,7 +118,7 @@
       "collection": "posts",
       "url": "/blog/2020-06-23-Working-in-Finance/"
     },{
-      "image": {"path":"/assets/img/projects/jobs.jpg","srcset":{"1920w":"/assets/img/projects/jobs.jpg","960w":"/assets/img/projects/jobs.jpg","480w":"/assets/img/projects/jobs.jpg"}},
+      "image": {"path":"/assets/img/projects/Covid-19-symptoms.jpg","srcset":{"1920w":"/assets/img/projects/Covid-19-symptoms.jpg","960w":"/assets/img/projects/Covid-19-symptoms.jpg","480w":"/assets/img/projects/Covid-19-symptoms.jpg"}},
       "title": "The impact of Covid-19 on the UK jobs market",
       "date": "2020-07-23 00:00:00 +0100",
       
@@ -151,9 +151,20 @@
       "collection": "posts",
       "url": "/blog/2020-11-12-Brexit/"
     },{
+      "image": {"path":"/assets/img/blog/euro2.jpg","srcset":{"1920w":"/assets/img/blog/euro2.jpg","960w":"/assets/img/blog/euro2.jpg","480w":"/assets/img/blog/euro2.jpg"}},
+      "title": "A market-based history of ECB policy events",
+      "date": "2020-12-31 00:00:00 +0000",
+      
+      "content": "A note on classifying ECB policy events based on how financial markets reacted at each ECB policy event. The work quantifies how much more important unconventional monetary policy has become.\n\nIf maintaining recent financial conditions becomes an intermediate target of central bank policy that would risk supporting asset prices indiscriminately, thereby suppressing financial markets’ role in price discovery.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2020-12-31-ECB/"
+    },{
       
       "title": "Example",
-      "date": "2020-11-12 11:15:43 +0000",
+      "date": "2020-12-31 12:23:56 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
