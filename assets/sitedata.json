@@ -155,16 +155,27 @@
       "title": "A market-based history of ECB policy events",
       "date": "2020-12-31 00:00:00 +0000",
       
-      "content": "A note on classifying ECB policy events based on how financial markets reacted at each ECB policy event. The note quantifies how macro news at ECB policy events has evolved over time.\n\nIf maintaining recent financial conditions becomes an intermediate target of central bank policy that would risk supporting asset prices indiscriminately. This could suppress financial markets’ role in price discovery.\n",
+      "content": "A note on ECB policy events and their market impact. Each ECB policy events nis classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has evolved over time.\n\n",
       "categories": [],
       "tags": [],
       
       "collection": "posts",
       "url": "/blog/2020-12-31-ECB/"
     },{
+      "image": {"path":"/assets/img/blog/lego_statue.jpg","srcset":{"1920w":"/assets/img/blog/lego_statue.jpg","960w":"/assets/img/blog/lego_statue.jpg","480w":"/assets/img/blog/lego_statue.jpg"}},
+      "title": "The UK productivity shortfall in an era of rising labour supply",
+      "date": "2021-06-01 00:00:00 +0100",
+      
+      "content": "A note on the UK’s large productivity shortfall and the role of a rising labour force and reduced capital deepening. The paper is co-authored with Garry Young, at NIESR.\n\nWe find that rising labour supply accounts for 4 log points of the UK’s 25 log point productivity shortfall.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2021-06-01-Productivity/"
+    },{
       
       "title": "Example",
-      "date": "2021-04-28 14:28:51 +0100",
+      "date": "2021-07-27 21:04:02 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
