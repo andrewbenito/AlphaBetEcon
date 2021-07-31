@@ -190,7 +190,7 @@
       "title": "The UK productivity shortfall in an era of rising labour supply",
       "date": "2021-07-01 00:00:00 +0100",
       
-      "content": "A paper on the UK’s large productivity shortfall. The paper, co-authored with Garry Young at NIESR focuses on the role of a rising labour force and reduced capital deepening in contributing to the pre-Covid-19 productivity slowdown.\n\nWe find that the UK’s pronounced labour force expansion accounted for 4pp of the UK’s 25 log point productivity shortfall between the mid-2000s and 2019. We reconcile this finding with diminishing returns in the long-run and with the micro-evidence that higher inward migration has only a small effect on real wages, at least when implicitly holding constant capital-per-worker.\n\n",
+      "content": "A paper on the UK’s productivity shortfall. The paper, co-authored with Garry Young at NIESR, focuses on the role of a rising labour force and reduced capital deepening in contributing to the pre-Covid productivity slowdown.\n\nWe find that the UK’s pronounced labour force expansion accounted for 4pp of the UK’s 25 log point productivity shortfall between the mid-2000s and 2019. We reconcile this finding with diminishing returns in the long-run and with the micro-evidence that higher inward migration has only a small effect on real wages, at least when holding constant the amount of capital-per-worker that was slow to respond in the era of rising labour supply.\n\n",
       "categories": [],
       "tags": [],
       
@@ -199,7 +199,7 @@
     },{
       
       "title": "Example",
-      "date": "2021-07-28 14:35:32 +0100",
+      "date": "2021-07-31 17:45:02 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
