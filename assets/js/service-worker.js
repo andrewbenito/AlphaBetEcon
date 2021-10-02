@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.4--v7--sw/AlphaBetEcon/";
 const ASSETS_CACHE = "assets--v7--sw/AlphaBetEcon/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2021-07-31T17:45:02+01:00--sw/AlphaBetEcon/";
+const CONTENT_CACHE = "content--2021-10-02T15:56:52+01:00--sw/AlphaBetEcon/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -58,7 +58,6 @@ const STATIC_FILES = [
   /**/"/AlphaBetEcon/assets/Working_in_Finance.pdf",
   /**/"/AlphaBetEcon/assets/benitoYoungIZA.pdf",
   /**/"/AlphaBetEcon/assets/cvAB.pdf",
-  /**/"/AlphaBetEcon/assets/cv_ab_sept19.pdf",
   /**/"/AlphaBetEcon/assets/ecbHistory.pdf",
   /**/"/AlphaBetEcon/assets/img/blog/COLOURlovers.com-Hydejack.png",
   /**/"/AlphaBetEcon/assets/img/blog/blog-layout.jpg",
