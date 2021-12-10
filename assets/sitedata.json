@@ -24,7 +24,7 @@
       
       "title": "CV",
       
-      "content": "CV\n\n",
+      "content": "CV (latex version): pdf .tex\n\nCV (R Markdown using latex): pdf .Rmd template-latex\n\nTo use the R Markdown version using latex, the ‘cv-latex.tex’ file should be saved in the same directory from which the Rmd file is run.\n",
       "url": "/cv/"
     },{
       
@@ -179,7 +179,7 @@
       "title": "A market-based history of ECB policy events",
       "date": "2020-12-31 00:00:00 +0000",
       
-      "content": "A note on ECB policy events and their market impact. Each ECB policy events nis classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has evolved over time.\n\n",
+      "content": "A note on ECB policy events and their market impact. Each ECB policy events is classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has changed over time.\n\n",
       "categories": [],
       "tags": [],
       
@@ -199,7 +199,7 @@
     },{
       
       "title": "Example",
-      "date": "2021-10-02 15:56:52 +0100",
+      "date": "2021-12-10 17:49:44 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],

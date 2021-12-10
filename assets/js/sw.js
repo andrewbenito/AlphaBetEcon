@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.4--v7--sw/AlphaBetEcon/";
 const ASSETS_CACHE = "assets--v7--sw/AlphaBetEcon/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2021-10-02T15:56:52+01:00--sw/AlphaBetEcon/";
+const CONTENT_CACHE = "content--2021-12-10T17:49:44+00:00--sw/AlphaBetEcon/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -55,9 +55,13 @@ const SHELL_FILES = [
 const STATIC_FILES = [
   /**/"/AlphaBetEcon/assets/BoEDoesIT.pdf",
   /**/"/AlphaBetEcon/assets/Brexit.pdf",
+  /**/"/AlphaBetEcon/assets/CVabRmd.pdf",
   /**/"/AlphaBetEcon/assets/Working_in_Finance.pdf",
   /**/"/AlphaBetEcon/assets/benitoYoungIZA.pdf",
+  /**/"/AlphaBetEcon/assets/cv-latex.tex",
   /**/"/AlphaBetEcon/assets/cvAB.pdf",
+  /**/"/AlphaBetEcon/assets/cv_ab_sept19.pdf",
+  /**/"/AlphaBetEcon/assets/cv_ab_sept19.tex",
   /**/"/AlphaBetEcon/assets/ecbHistory.pdf",
   /**/"/AlphaBetEcon/assets/img/blog/COLOURlovers.com-Hydejack.png",
   /**/"/AlphaBetEcon/assets/img/blog/blog-layout.jpg",
@@ -97,6 +101,7 @@ const STATIC_FILES = [
   /**/"/AlphaBetEcon/assets/img/blog/steve-harvey@0,125x.jpg",
   /**/"/AlphaBetEcon/assets/img/blog/steve-harvey@0,25x.jpg",
   /**/"/AlphaBetEcon/assets/img/blog/steve-harvey@0,5x.jpg",
+  /**/"/AlphaBetEcon/assets/img/blog/togetherCreate.jpg",
   /**/"/AlphaBetEcon/assets/img/blog/w3m.png",
   /**/"/AlphaBetEcon/assets/img/blog/wade-lambert.jpg",
   /**/"/AlphaBetEcon/assets/img/docs/chrome-print.png",
