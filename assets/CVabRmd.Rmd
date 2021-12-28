@@ -1,13 +1,13 @@
-# Personal
+# \textcolor{BlueViolet}{Personal}
 *Nationality*: British and Irish citizen. Born: Burnley, U.K.  
 *www*: andrewbenito.github/AlphaBetEcon
 
 
-# Profile
+# \textcolor{BlueViolet}{Profile}
 
 Chief European Economist at Eisler Capital. Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
 
-# Employment 
+# \textcolor{BlueViolet}{Employment} 
 
 **Chief European Economist** \hfill 2019 -   
 *Eisler Capital*
@@ -33,7 +33,7 @@ Chief European Economist at Eisler Capital. Previously, Managing Director at Gol
 **Leader, Modelling Team** \hfill 1997 - 99  
 *Oxford Economic Research Associates*
 
-# Education
+# \textcolor{BlueViolet}{Education}
 
 **Ph.D. Economics** \hfill 1994 - 97  
 *University of Warwick*
@@ -46,7 +46,7 @@ _Thesis_: Wage Premia in the British Labour Market
 **B.Sc. Economics** \hfill 1990 - 93   
 *Cardiff University*
 
-# Journal Publications
+# \textcolor{BlueViolet}{Journal Publications}
 
 Benito, A and Saleheen, J (2013), `Labour supply as a buffer: Evidence from UK households', *Economica* 80, 698-720 
 
@@ -72,7 +72,7 @@ Benito, A and Young, G (2003), `Hard Times or Great Expectations? Dividend omiss
 
 Benito, A (2000), `Inter-industry wage differentials in Great Britain', *Oxford Bulletin of Economics and Statistics*, 62, 727-746 
 
-# Institutional Publications
+# \textcolor{BlueViolet}{Institutional Publications}
 
 Benito, A. and Young, G. (2021), `The UK productivity shortfall in an era of rising labour supply', *IZA Discussion Paper 14620* 
 
@@ -108,15 +108,14 @@ Benito, A., \textit{et al} (2001), `Analysing corporate and household sector bal
 Benito, A. and Vlieghe, G. (2000), `Stylised facts on UK corporate financial health: Evidence from micro-data', *Bank of England Financial Stability Review*.
 
 
-# Awards
+# \textcolor{BlueViolet}{Awards}
 
 - IZA Research Fellow \hfill 2011-
-- Special Session Award, *Money Macro Finance Conf.*, Cambridge \hfill 2003
 - Human Capital and Mobility Fellowship, European Union \hfill 1995-97
-- University Graduate Award}, University of Warwick \hfill 1993-94
+- University Graduate Award, University of Warwick \hfill 1993-94
 - Sir Julian Hodge Award \hfill 1993
 - Vauxhall Motors Award for Academic Excellence \hfill 1993
 
-# Seminars
+# \textcolor{BlueViolet}{Seminars}
 
 Banco de Espana, Bank of England, Banque de France, European Central Bank, European Economic Association, European University Institute, Goldman Sachs (London), Harvard University, International Monetary Fund, London School of Economics, Royal Economic Society Annual Conference, Society of Professional Economists, University of Cambridge, Universidad Carlos III Madrid, University of Oxford, University of Warwick.
