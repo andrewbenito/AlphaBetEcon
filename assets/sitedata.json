@@ -142,17 +142,6 @@
       "collection": "posts",
       "url": "/blog/2020-06-23-Working-in-Finance/"
     },{
-      "image": {"path":"/assets/img/projects/Covid-19-symptoms.jpg","srcset":{"1920w":"/assets/img/projects/Covid-19-symptoms.jpg","960w":"/assets/img/projects/Covid-19-symptoms.jpg","480w":"/assets/img/projects/Covid-19-symptoms.jpg"}},
-      "title": "The impact of Covid-19 on the UK jobs market",
-      "date": "2020-07-23 00:00:00 +0100",
-      
-      "content": "A brief note on the impact of Covid-19 on the UK jobs market\n\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "posts",
-      "url": "/blog/2020-07-23-Covid19-and-the-jobs-market/"
-    },{
       "image": {"path":"/assets/img/blog/boe.jpg","srcset":{"1920w":"/assets/img/blog/boe.jpg","960w":"/assets/img/blog/boe.jpg","480w":"/assets/img/blog/boe.jpg"}},
       "title": "Monetary policy and Covid-19",
       "date": "2020-08-11 00:00:00 +0100",
@@ -199,7 +188,7 @@
     },{
       
       "title": "Example",
-      "date": "2021-12-28 11:31:53 +0000",
+      "date": "2021-12-28 12:28:37 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
