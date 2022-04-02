@@ -168,17 +168,6 @@
       "title": "A market-based history of ECB policy events",
       "date": "2020-12-31 00:00:00 +0000",
       
-      "content": "An updated and extended version of the note on ECB policy events and their market impact.\n\nEach ECB policy event is classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has changed over time.\n\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "posts",
-      "url": "/blog/2020-12-31-ECB-update/"
-    },{
-      "image": {"path":"/assets/img/blog/euro2.jpg","srcset":{"1920w":"/assets/img/blog/euro2.jpg","960w":"/assets/img/blog/euro2.jpg","480w":"/assets/img/blog/euro2.jpg"}},
-      "title": "A market-based history of ECB policy events",
-      "date": "2020-12-31 00:00:00 +0000",
-      
       "content": "A note on ECB policy events and their market impact. Each ECB policy events is classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has changed over time.\n\n",
       "categories": [],
       "tags": [],
@@ -201,7 +190,7 @@
       "title": "A market-based history of ECB policy events",
       "date": "2022-02-20 00:00:00 +0000",
       
-      "content": "An updated and extended version of the note on ECB policy events and their market impact.\n\nEach ECB policy event is classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has changed over time.\n\n",
+      "content": "An updated and extended version of the note on ECB policy events and their market impact.\n\nEach ECB policy event is classified based on its financial market reaction. The note illustrates how the pattern of macro news at ECB policy events has changed over time. This pattern has evolved towards ECB operating increasingly through unconventional policy and lowering risk premia.\n\n",
       "categories": [],
       "tags": [],
       
@@ -210,7 +199,7 @@
     },{
       
       "title": "Example",
-      "date": "2022-04-02 09:44:18 +0100",
+      "date": "2022-04-02 10:11:16 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
@@ -265,7 +254,7 @@
     },{
       "image": "/assets/img/projects/boe.jpeg",
       "title": "Monetary Policy",
-      "date": "2020-01-01 00:00:00 +0000",
+      "date": "2022-01-01 00:00:00 +0000",
       "description": "Understanding monetary policy.\n",
       "content": "\n",
       "categories": [],
