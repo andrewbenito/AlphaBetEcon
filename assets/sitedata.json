@@ -78,7 +78,7 @@
       
       "title": "Teaching",
       
-      "content": "How to teach\n\nTalks\n\n\n  \n    The UK productivity shortfall in an era of rising labour supply based on this paper with Garry Young.\n  \n  \n    A talk on Brexit, given to Harvard Business School MBA Class (Nov.2020).\n  \n  \n    A talk on working as an Economist in Finance, given to Warwick University Finance Society  (Oct. 2019).\n  \n\n\n",
+      "content": "How to teach\n\nTalks\n\n\n  \n    Central bank communications, financial markets and a little data science\n  \n  \n    The UK productivity shortfall in an era of rising labour supply based on this paper with Garry Young.\n  \n  \n    A talk on Brexit, given to Harvard Business School MBA Class (Nov.2020).\n  \n  \n    A talk on working as an Economist in Finance, given to Warwick University Finance Society  (Oct. 2019).\n  \n\n\n",
       "url": "/teaching/"
     },{
       
@@ -179,7 +179,7 @@
       "title": "The UK productivity shortfall in an era of rising labour supply",
       "date": "2021-07-01 00:00:00 +0100",
       
-      "content": "A paper on the UK’s productivity shortfall. The paper is co-authored with Garry Young at NIESR and focuses on the role of an expanding labour force and reduced capital deepening in contributing to the UK’s pre-Covid productivity slowdown.\n\nWe find that the UK’s pronounced labour force expansion accounted for 4pp of the UK’s 25 log point productivity shortfall between the mid-2000s and 2019. We reconcile this finding with labour productivity being independent of labour supplied in the long-run and with the micro-evidence that higher inward migration has only a small effect on real wages. Both of these views depend upon the amount of capital-per-worker adjusting in response to the expanded labour force – a process that may have been slowed in the era of rising labour supply after the financial crisis.\n\n",
+      "content": "A paper on the UK’s productivity shortfall. The paper is co-authored with Garry Young at NIESR and focuses on the role of an expanding labour force and reduced capital deepening in contributing to the UK’s pre-Covid productivity slowdown.\n\nWe find that the UK’s pronounced labour force expansion accounted for 4pp of the UK’s 25 log point productivity shortfall between the mid-2000s and 2019.\n\nWe reconcile this finding with labour productivity being independent of labour supplied in the long-run and with the micro-evidence that higher inward migration has only a small effect on real wages. Both of these views depend upon the amount of capital-per-worker adjusting in response to the expanded labour force – a process that may have been slowed in the era of rising labour supply after the financial crisis.\n\n",
       "categories": [],
       "tags": [],
       
@@ -197,9 +197,20 @@
       "collection": "posts",
       "url": "/blog/2022-02-20-ECB-update/"
     },{
+      "image": {"path":"/assets/img/blog/talk2.jpg","srcset":{"1920w":"/assets/img/blog/talk2.jpg","960w":"/assets/img/blog/talk2.jpg","480w":"/assets/img/blog/talk2.jpg"}},
+      "title": "Central bank comms",
+      "date": "2022-06-01 00:00:00 +0100",
+      
+      "content": "A talk on Central bank communications, financial markets and a little data science.\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2022-06-01-cbComms/"
+    },{
       
       "title": "Example",
-      "date": "2022-04-02 10:11:16 +0100",
+      "date": "2022-06-18 11:52:10 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
