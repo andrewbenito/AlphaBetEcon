@@ -208,9 +208,20 @@
       "collection": "posts",
       "url": "/blog/2022-06-01-cbComms/"
     },{
+      "image": {"path":"/assets/img/blog/togetherCreate.jpg","srcset":{"1920w":"/assets/img/blog/togetherCreate.jpg","960w":"/assets/img/blog/togetherCreate.jpg","480w":"/assets/img/blog/togetherCreate.jpg"}},
+      "title": "The UK productivity shortfall in an era of rising labour supply",
+      "date": "2022-06-25 00:00:00 +0100",
+      
+      "content": "An updated and extended version of the paper on UK productivity growth with Garry Young at NIESR. The paper focuses on the role of an expanding labour force and reduced capital deepening in contributing to the UK’s pre-Covid productivity slowdown.\n\nWe find that the UK’s pronounced labour force expansion accounted for 4pp of the UK’s 25 log point productivity shortfall between the mid-2000s and 2019.\n\nWe reconcile this finding with labour productivity being independent of labour supplied in the long-run and with the micro-evidence that higher inward migration has only a small effect on real wages. Both of these views depend upon the amount of capital-per-worker adjusting in response to the expanded labour force – a process that may have been slowed in the era of rising labour supply after the financial crisis.\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2022-06-25-ProductivityUpdate/"
+    },{
       
       "title": "Example",
-      "date": "2022-06-23 19:46:19 +0100",
+      "date": "2022-06-25 10:32:54 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
