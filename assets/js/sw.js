@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.4--v7--sw/AlphaBetEcon/";
 const ASSETS_CACHE = "assets--v7--sw/AlphaBetEcon/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2022-07-10T11:10:36+01:00--sw/AlphaBetEcon/";
+const CONTENT_CACHE = "content--2022-07-22T21:38:58+01:00--sw/AlphaBetEcon/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
