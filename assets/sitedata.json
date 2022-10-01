@@ -153,7 +153,7 @@
       "collection": "posts",
       "url": "/blog/2020-08-11-Monetary-policy-and-Covid-19/"
     },{
-      "image": {"path":"/assets/img/blog/brexit2.jpeg","srcset":{"1920w":"/assets/img/blog/brexit2.jpeg","960w":"/assets/img/blog/brexit2.jpeg","480w":"/assets/img/blog/brexit2.jpeg"}},
+      "image": {"path":"/assets/img/blog/brexit2.jpg","srcset":{"1920w":"/assets/img/blog/brexit2.jpg","960w":"/assets/img/blog/brexit2.jpg","480w":"/assets/img/blog/brexit2.jpg"}},
       "title": "A talk on Brexit",
       "date": "2020-11-12 00:00:00 +0000",
       
@@ -221,7 +221,7 @@
     },{
       
       "title": "Example",
-      "date": "2022-10-01 16:25:35 +0100",
+      "date": "2022-10-01 16:34:17 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
