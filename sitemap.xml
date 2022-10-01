@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2020-06-10-EA-Pygmalion/</loc>
-<lastmod>2021-08-29T14:20:26+01:00</lastmod>
+<lastmod>2022-07-23T10:23:47+01:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2020-06-23-Working-in-Finance/</loc>
@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2020-11-12-Brexit/</loc>
-<lastmod>2020-11-12T11:14:44+00:00</lastmod>
+<lastmod>2022-10-01T16:23:43+01:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2020-12-31-ECB/</loc>
@@ -30,11 +30,11 @@
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2022-06-01-cbComms/</loc>
-<lastmod>2022-06-18T11:49:16+01:00</lastmod>
+<lastmod>2022-07-23T10:22:34+01:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/blog/2022-06-25-ProductivityUpdate/</loc>
-<lastmod>2022-07-10T10:52:41+01:00</lastmod>
+<lastmod>2022-07-23T10:22:16+01:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/CHANGELOG/</loc>
@@ -74,7 +74,7 @@
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/research/</loc>
-<lastmod>2022-07-10T10:58:32+01:00</lastmod>
+<lastmod>2022-08-06T10:15:42+01:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/resume/</loc>
@@ -155,10 +155,6 @@
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/assets/ecbHistoryv2.pdf</loc>
 <lastmod>2022-02-18T18:12:47+00:00</lastmod>
-</url>
-<url>
-<loc>https://andrewbenito.github.io/AlphaBetEcon/assets/img/blog/Sargent_Sweden_final.pdf</loc>
-<lastmod>2022-01-02T21:01:23+00:00</lastmod>
 </url>
 <url>
 <loc>https://andrewbenito.github.io/AlphaBetEcon/assets/img/blog/iimport1.pdf</loc>
