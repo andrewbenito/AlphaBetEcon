@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.4--v7--sw/AlphaBetEcon/";
 const ASSETS_CACHE = "assets--v7--sw/AlphaBetEcon/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2022-10-20T10:59:26+01:00--sw/AlphaBetEcon/";
+const CONTENT_CACHE = "content--2022-10-20T11:04:04+01:00--sw/AlphaBetEcon/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -67,6 +67,15 @@ const STATIC_FILES = [
   /**/"/AlphaBetEcon/assets/cv_ab_sept19.tex",
   /**/"/AlphaBetEcon/assets/ecbHistory.pdf",
   /**/"/AlphaBetEcon/assets/ecbHistoryv2.pdf",
+  /**/"/AlphaBetEcon/assets/icons/favicon.ico",
+  /**/"/AlphaBetEcon/assets/icons/icon-128x128.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-144x144.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-152x152.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-192x192.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-384x384.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-512x512.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-72x72.png",
+  /**/"/AlphaBetEcon/assets/icons/icon-96x96.png",
   /**/"/AlphaBetEcon/assets/img/blog/COLOURlovers.com-Hydejack.png",
   /**/"/AlphaBetEcon/assets/img/blog/blog-layout.jpg",
   /**/"/AlphaBetEcon/assets/img/blog/boe.jpg",
@@ -328,15 +337,7 @@ const STATIC_FILES = [
   /**/"/AlphaBetEcon/assets/icomoon/fonts/icomoon.woff",
   /**/"/AlphaBetEcon/assets/icomoon/selection.json",
   /**/"/AlphaBetEcon/assets/icomoon/style.css",
-  /**/"/AlphaBetEcon/assets/icons/favicon.ico",
-  /**/"/AlphaBetEcon/assets/icons/icon-128x128.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-144x144.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-152x152.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-192x192.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-384x384.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-512x512.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-72x72.png",
-  /**/"/AlphaBetEcon/assets/icons/icon-96x96.png",
+  /**/"/AlphaBetEcon/assets/icons/.DS_Store",
   /**/"/AlphaBetEcon/assets/img/logo.png",
   /**/"/AlphaBetEcon/assets/img/sidebar-bg.jpg",
   /**/"/AlphaBetEcon/assets/img/swipe.svg",
