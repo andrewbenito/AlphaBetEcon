@@ -47,7 +47,7 @@ async function getDocuments() {
 ///////////////////////////////////////////////////////////////////////////////
 
 importScripts('/AlphaBetEcon/assets/js/minisearch/dist/umd/index.min.js');
-const INDEX_KEY = 'index--2022-10-20T11:04:04+01:00';
+const INDEX_KEY = 'index--2023-01-07T18:04:50+00:00';
 const storage = new StorageArea('mini-search/AlphaBetEcon/');
 
 const OPTIONS = {
