@@ -220,10 +220,10 @@
       "url": "/blog/2022-06-25-ProductivityUpdate/"
     },{
       "image": {"path":"/assets/img/blog/talk.jpg","srcset":{"1920w":"/assets/img/blog/talk.jpg","960w":"/assets/img/blog/talk.jpg","480w":"/assets/img/blog/talk.jpg"}},
-      "title": "TalkWES",
+      "title": "Talk: Macro + markets",
       "date": "2023-01-07 00:00:00 +0000",
       
-      "content": "A talk titled ‘Faith, Hope and Carnage: Central banks and financial markets’ given to the Warwick Economic Society (Jan, 2023).\n\n",
+      "content": "A talk titled Faith, Hope and Carnage: Central banks and financial markets given to the Warwick Economic Society (Jan. 2023).\n\n",
       "categories": [],
       "tags": [],
       
@@ -232,7 +232,7 @@
     },{
       
       "title": "Example",
-      "date": "2023-01-07 18:04:50 +0000",
+      "date": "2023-01-07 18:12:55 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
