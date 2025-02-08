@@ -116,6 +116,12 @@
       
       "content": "Licenses\n\nOpen Source\n\n  Apache-2.0\n  GPL-3.0\n  MIT\n  W3C-20150513\n\n\nCustom\n\n  PRO\n\n",
       "url": "/licenses/"
+    },{
+      
+      "title": "Blog",
+      "description": "The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.\n",
+      "content": "\n",
+      "url": "/blog/2/"
     }
   ], 
   "documents": [
@@ -230,9 +236,20 @@
       "collection": "posts",
       "url": "/blog/2023-01-07-TalkIT/"
     },{
+      "image": {"path":"/assets/img/blog/brexit2.jpg","srcset":{"1920w":"/assets/img/blog/chat.jpg","960w":"/assets/img/blog/chat.jpg","480w":"/assets/img/blog/chat.jpg"}},
+      "title": "A talk on UK Macro",
+      "date": "2025-02-08 00:00:00 +0000",
+      
+      "content": "A talk on UK Macro and Financial markets given to students at Kings College London.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "posts",
+      "url": "/blog/2025-02-08-Kings/"
+    },{
       
       "title": "Example",
-      "date": "2024-02-24 14:50:14 +0000",
+      "date": "2025-02-08 15:16:15 +0000",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
