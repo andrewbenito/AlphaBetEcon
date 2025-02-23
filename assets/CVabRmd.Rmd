@@ -5,17 +5,17 @@
 
 # \textcolor{BlueViolet}{Profile}
 
-Chief European Economist at Eisler Capital. Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
+Managing Director, Research, at Eisler Capital. Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
 
 # \textcolor{BlueViolet}{Employment} 
 
-**Chief European Economist** \hfill 2019 -   
+**Managing Director and Head of European Macro Research** \hfill 2019 -   
 *Eisler Capital*
 
 **Managing Director, Chief UK Economist and Senior European Economist** \hfill 2011 - 2019  
 *Goldman Sachs, Global Macro Research*
 
-**Research Manager** \hfill 2008 - 11  
+**Senior Economist and Research Manager** \hfill 2008 - 11  
 *Bank of England, Monetary Analysis*
 
 **Visiting Scholar** \hfill 2006 -08  
@@ -48,6 +48,8 @@ _Thesis_: Wage Premia in the British Labour Market
 
 # \textcolor{BlueViolet}{Journal Publications}
 
+Benito, A and Young, G (2025), `The UK productivity shortfall in an era of rising labour supply', *National Institute Economic Review* 1-19
+
 Benito, A and Saleheen, J (2013), `Labour supply as a buffer: Evidence from UK households', *Economica* 80, 698-720 
 
 Benito, A and Mumtaz, H (2009), `Excess sensitivity, liquidity constraints and the collateral role of housing', *Macroeconomic Dynamics*, 13, 305-326 
@@ -74,8 +76,6 @@ Benito, A (2000), `Inter-industry wage differentials in Great Britain', *Oxford 
 
 # \textcolor{BlueViolet}{Institutional Publications}
 
-Benito, A. and Young, G. (2021), `The UK productivity shortfall in an era of rising labour supply', *IZA Discussion Paper 14620* 
-
 Benito, A. (2018), `Missing wage growth and ECB policy' , *European Views*, Goldman Sachs Research 
 
 Benito, A. et al. (2017), `Drivers of UK asset prices - Since Brexit, politics matters more than economics', *European Economics Analyst*. Goldman Sachs Research
@@ -84,7 +84,6 @@ Benito, A. (2017), `How does monetary policy affect labor demand and labor produ
 
 Benito, A. and Saleheen, J. (2012), `Labour supply as a buffer: Evidence from UK households',
 *IZA Discussion Paper 6506* (Also, *Bank of England Working Paper No.426*). 
-
 Benito, A. and Bunn, P. (2011), `Understanding labour force participation in the UK', *Bank of England Quarterly Bulletin*  
 
 Benito, A. \textit{et al} (2010), `The effect of the financial crisis on supply', *Bank of England Quarterly Bulletin* 
@@ -118,4 +117,4 @@ Benito, A. and Vlieghe, G. (2000), `Stylised facts on UK corporate financial hea
 
 # \textcolor{BlueViolet}{Seminars}
 
-Banco de Espana, Bank of England, Banque de France, European Central Bank, European Economic Association, European University Institute, Goldman Sachs (London), Harvard University, International Monetary Fund, London School of Economics, Royal Economic Society Annual Conference, Society of Professional Economists, University of Cambridge, Universidad Carlos III Madrid, University of Oxford, University of Warwick.
+Banco de Espana, Bank of England, Banque de France, European Central Bank, European Economic Association, European University Institute, Goldman Sachs (London), Harvard University, International Monetary Fund, J.P.Morgan (London), Kings College London, London School of Economics, Royal Economic Society Annual Conference, Society of Professional Economists, University of Cambridge, Universidad Carlos III Madrid, University of Oxford, University of Warwick.
