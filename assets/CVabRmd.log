@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.9)  8 FEB 2025 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.9)  1 MAR 2025 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,26 +468,8 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 129.
 [1
 
-{/Users/benito/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 253.
-(/Users/benito/Library/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 253.
-(/Users/benito/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmtt.fd
-File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 252--256
-[]\T1/pplj/m/n/12 (+20) Benito, A. and Sale-heen, J. (2012), \T1/cmtt/m/n/12 Labour supply as a buffer: Evidence from UK
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--256
-\T1/cmtt/m/n/12 households\TS1/cmtt/m/n/12 '\T1/cmtt/m/n/12 , *IZA Discussion Paper 6506* (Also, *Bank of England Working Paper
- []
-
-[2]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 297.
+{/Users/benito/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/benito/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2]
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 299.
 (/Users/benito/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [3] 
@@ -501,18 +483,18 @@ Package rerunfilecheck Info: File `CVabRmd.out' has not changed.
 (rerunfilecheck)             Checksum: D57E795E3259C8740CC8BD819D9D4EC6;288.
  ) 
 Here is how much of TeX's memory you used:
- 14467 strings out of 476168
- 224227 string characters out of 5794042
+ 14420 strings out of 476168
+ 222882 string characters out of 5794042
  1934975 words of memory out of 5000000
- 36042 multiletter control sequences out of 15000+600000
- 595830 words of font info for 220 fonts, out of 8000000 for 9000
+ 36008 multiletter control sequences out of 15000+600000
+ 594939 words of font info for 214 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,79p,1196b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/benito/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tctt1200.600pk> </Users/benito/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CVabRmd.pdf (3 pages, 105417 bytes).
+</Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CVabRmd.pdf (3 pages, 104187 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
  53313 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -82,8 +82,8 @@ Benito, A. et al. (2017), `Drivers of UK asset prices - Since Brexit, politics m
 
 Benito, A. (2017), `How does monetary policy affect labor demand and labor productivity?', *IZA World of Labor*.
 
-Benito, A. and Saleheen, J. (2012), `Labour supply as a buffer: Evidence from UK households',
-*IZA Discussion Paper 6506* (Also, *Bank of England Working Paper No.426*). 
+Benito, A. and Saleheen, J. (2012), `Labour supply as a buffer: Evidence from UK households', *IZA Discussion Paper 6506* (Also, *Bank of England Working Paper No.426*).  
+
 Benito, A. and Bunn, P. (2011), `Understanding labour force participation in the UK', *Bank of England Quarterly Bulletin*  
 
 Benito, A. \textit{et al} (2010), `The effect of the financial crisis on supply', *Bank of England Quarterly Bulletin* 
