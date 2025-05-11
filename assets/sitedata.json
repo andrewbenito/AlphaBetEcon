@@ -260,18 +260,18 @@
     },{
       "image": {"path":"/assets/img/blog/watching.jpg","srcset":{"1920w":"/assets/img/blog/watching.jpg","960w":"/assets/img/blog/watching.jpg","480w":"/assets/img/blog/watching.jpg"}},
       "title": "BoE Watchers",
-      "date": "2025-04-26 00:00:00 +0100",
+      "date": "2025-05-11 00:00:00 +0100",
       
-      "content": "My [presentation] for the 2025 BoE Watchers Conference. \nA slightly longer version of the slides is available [here].\n",
+      "content": "I am speaking at the 2025 BoE Watchers Conference on a panel titled ‘Fiscal policy, the bond market and implications for monetary policy’.\n\nSlides for my presentation are here, with a slightly longer version of the slides available here.\n",
       "categories": [],
       "tags": [],
       
       "collection": "posts",
-      "url": "/blog/2025-04-26-Watchers/"
+      "url": "/blog/2025-05-11-Watchers/"
     },{
       
       "title": "Example",
-      "date": "2025-04-26 14:24:08 +0100",
+      "date": "2025-05-11 08:33:52 +0100",
       "description": "This is a featured category, which have their own page. Check out _featured_tags/example.md to learn how to create your own.\n",
       "content": "\n",
       "categories": [],
