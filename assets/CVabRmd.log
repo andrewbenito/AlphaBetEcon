@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.9)  1 MAR 2025 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.9)  19 MAY 2025 09:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,18 +483,18 @@ Package rerunfilecheck Info: File `CVabRmd.out' has not changed.
 (rerunfilecheck)             Checksum: D57E795E3259C8740CC8BD819D9D4EC6;288.
  ) 
 Here is how much of TeX's memory you used:
- 14420 strings out of 476168
- 222882 string characters out of 5794042
- 1934975 words of memory out of 5000000
+ 14430 strings out of 476168
+ 222957 string characters out of 5794042
+ 1935975 words of memory out of 5000000
  36008 multiletter control sequences out of 15000+600000
- 594939 words of font info for 214 fonts, out of 8000000 for 9000
+ 595501 words of font info for 222 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,79p,1196b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/benito/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CVabRmd.pdf (3 pages, 104187 bytes).
+Output written on CVabRmd.pdf (3 pages, 104545 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
  53313 words of extra memory for PDF output out of 61914 (max. 10000000)
 

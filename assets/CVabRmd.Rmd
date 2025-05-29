@@ -1,15 +1,15 @@
 # \textcolor{BlueViolet}{Personal}
 *Nationality*: British and Irish citizen. Born: Burnley, U.K.  
-*www*: andrewbenito.github/AlphaBetEcon
+*www*: [andrewbenito.github.io/AlphaBetEcon](andrewbenito.github.io/AlphaBetEcon)
 
 
 # \textcolor{BlueViolet}{Profile}
 
-Managing Director, Research, at Eisler Capital. Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
+Managing Director, Research, at Eisler Capital (6 years). Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
 
 # \textcolor{BlueViolet}{Employment} 
 
-**Managing Director and Head of European Macro Research** \hfill 2019 -   
+**Managing Director and Head of European Macro Research** \hfill 2019 - 2025  
 *Eisler Capital*
 
 **Managing Director, Chief UK Economist and Senior European Economist** \hfill 2011 - 2019  
@@ -115,6 +115,6 @@ Benito, A. and Vlieghe, G. (2000), `Stylised facts on UK corporate financial hea
 - Sir Julian Hodge Award \hfill 1993
 - Vauxhall Motors Award for Academic Excellence \hfill 1993
 
-# \textcolor{BlueViolet}{Seminars}
+# \textcolor{BlueViolet}{Seminars/Talks}
 
-Banco de Espana, Bank of England, Banque de France, European Central Bank, European Economic Association, European University Institute, Goldman Sachs (London), Harvard University, International Monetary Fund, J.P.Morgan (London), Kings College London, London School of Economics, Royal Economic Society Annual Conference, Society of Professional Economists, University of Cambridge, Universidad Carlos III Madrid, University of Oxford, University of Warwick.
+Banco de Espana, Bank of England, Bank of England Watchers' Conference, Banque de France, European Central Bank, European Economic Association, European University Institute, Goldman Sachs (London), Harvard University, International Monetary Fund, J.P.Morgan (London), Kings College London, London School of Economics, Royal Economic Society Annual Conference, Society of Professional Economists, University of Cambridge, Universidad Carlos III Madrid, University of Oxford, University of Warwick.
