@@ -1,13 +1,15 @@
 # \textcolor{BlueViolet}{Personal}
-*Nationality*: British and Irish citizen. Born: Burnley, U.K.  
-*www*: [andrewbenito.github.io/AlphaBetEcon](andrewbenito.github.io/AlphaBetEcon)
+*Nationality*: British with Irish citizenship. Born: Burnley, U.K.  
 
 
 # \textcolor{BlueViolet}{Profile}
 
-Managing Director, Research, at Eisler Capital (6 years). Previously, Managing Director at Goldman Sachs (8 years) and Research Manager at Bank of England (12 years, including secondments to the IMF and Banco de Espana). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
+Economist at a leading US hedge fund. Previously: Managing Director at Eisler Capital (5 years), Managing Director at Goldman Sachs (8 years), Senior Economist at Bank of England (12 years), including secondments to the IMF (during the Global Financial Crisis) and Banco de Espana (during the introductiono of the Euro)). My work has been cited extensively by policy-makers and the media and been published in academic journals. I hold a PhD in Economics from the University of Warwick. I am also a Research Fellow at IZA, Institute of Labor Economics, Bonn.
 
 # \textcolor{BlueViolet}{Employment} 
+
+**Economist, at a leading US hedge fund** \hfill 2025 -   
+
 
 **Managing Director and Head of European Macro Research** \hfill 2019 - 2025  
 *Eisler Capital*
@@ -29,9 +31,6 @@ Managing Director, Research, at Eisler Capital (6 years). Previously, Managing D
 
 **Economist** \hfill 1999 - 2002  
 *Bank of England, Financial Stability*
-
-**Leader, Modelling Team** \hfill 1997 - 99  
-*Oxford Economic Research Associates*
 
 # \textcolor{BlueViolet}{Education}
 
